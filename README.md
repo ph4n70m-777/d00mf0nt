@@ -1,6 +1,4 @@
-# Doom Font Creator (DD_FONT)
-
-![Screenshot 0](https://i.postimg.cc/PJP4w18Z/DD-FONT5.png "Screenshot 0")
+doom fontszzz
 
 A tool for creating text assets for the 90's Doom games series.
 
@@ -11,8 +9,6 @@ Usage of external True Type Fonts (ttf)
 
 External Color Palettes
 
-## Donwloads
-[version 1.0.1.12 (20211106 - win32)](https://sourceforge.net/projects/dd-font/files/DD_FONT_1.0/DD_FONT_1.0.1.12_bin.zip/download)
 
 ## Screenshots
 
